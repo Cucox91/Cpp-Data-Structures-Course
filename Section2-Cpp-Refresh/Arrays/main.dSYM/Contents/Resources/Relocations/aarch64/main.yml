@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/cucox91/Repos/CppDev/CppDsCourse/Section2-Cpp-Refresh/Arrays/main'
+binary-path:     '/Users/cucox91/Repos/CppDev/Cpp-Data-Structures-Course/Section2-Cpp-Refresh/Arrays/main'
 relocations:     []
 ...
